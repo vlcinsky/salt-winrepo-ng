@@ -1,5 +1,5 @@
 python3_x64:
-  '3.6.2150.0':
+  '3.6.1150.0':
     full_name: 'Python 3.6.1 (64-bit)'
     installer: 'https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe'
     install_flags: '/quiet InstallAllUsers=1'
